@@ -47,4 +47,4 @@ A Proportional–Integral (PI) controller was implemented to regulate the liquid
 3. Place the script in your MATLAB working directory.
 4. Run the script:
    ```matlab
-   two_tank_simulation
+   Two-Tank-Liquid-Level-Control-System-Simulation
